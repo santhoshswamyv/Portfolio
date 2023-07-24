@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Portfolio</string>
+    <string name="acheivements">FireFlink Testing :- Tested 2 Real Time Application\n\n\t\t--> Trading App\n\t\t--> Make My Trip\n\n\nSkill Vertex :- Completed App Development Internship (Online)\n\n\nFinal Year Project :- Voice to Sign Language (Website)</string>
+    <string name="experience">Android Studio :- \n\n--> Built Some Simple Applications (1 Year Approx)\n\n\nEclipse (IDE) :- \n\n--> Built a Telegram Bot (Partial)\n\n--> Automation Testing (1 Month)\n\n\nVS Code (IDE) :- \n\n--> Built the Voice to Sign Language (FYP)</string>
+    <string name="details" >School Name :- Sri Ram Dayal Khemka Vivekananda Vidyalaya\n\nYear of Pass Out :- 2017 </string>
+    <string name="details2" >School Name :- Velammal Bodhi Campus\n\nCourse Taker :- Computer Science Grp\n\nYear of Pass Out :- 2019 </string>
+    <string name="details1" >University Name :- Anna University\n\nCourse Taker :- Computer Science Engg\n\nYear of Pass Out :- 2023 </string>
+    <string name="skills" >JAVA :- \n\n\t\t\t\t\t--> Methods, OOPS\n\n\t\t\t\t\t--> Arrays, Strings\n\n\t\t\t\t\t--> Exception Handling, File Handling\n\n\t\t\t\t\t--> Collection Framework\n\n\nTESTING :- \n\n\t\t\t\t\t--> Automation Testing (Selenium)\n\n\t\t\t\t\t--> Manual Testing\n\n\nOracle SQL :- \n\n\t\t\t\t\t--> DQL, DDL, DML, DCL, TCL\n\n\t\t\t\t\t--> Functions, Sub-Queries, etc..\n\n\nHTML / CSS :- \n\n\t\t\t\t\t--> Tags, Attributes, List, Forms, etc\n\n\t\t\t\t\t--> Styles, Fonts, Icons, etc..</string>
+</resources>
