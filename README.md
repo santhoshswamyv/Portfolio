@@ -6,27 +6,27 @@
 
 ## Screenshots
 
-**Laucher**
+**Launcher**
 
 ![Launcher](screenshots/Launcher.png)
 
-**Activity**
+**Main Activity**
 
 ![Main Activity](screenshots/MainActivity.png)
 
-**Working**
+**Skills Activity**
 
 ![Skills Activity](screenshots/SkillsActivity.png)
 
-**Working**
+**Acheivement Activity**
 
 ![Acheivements Activity](screenshots/AcheivementActivity.png)
 
-**Working**
+**Education Details Activity**
 
 ![Education Details Activity](screenshots/DetailsActivity.png)
 
-**Working**
+**Experience Activity**
 
 ![Experience Activity](screenshots/ExperienceActivity.png)
 ## Developed Using
