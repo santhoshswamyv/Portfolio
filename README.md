@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-**Laucher**
+**Launcher**
 
 ![Launcher](screenshots/Launcher.png)
 
